@@ -1,6 +1,6 @@
 # Api REST Contatos
 
-Projeto de Api REST desenvolvimento em Spring Boot
+Projeto de Api REST desenvolvido em Spring Boot
 
 # Setup do projeto
 
